@@ -103,7 +103,7 @@ getter and/or setter methods.
 
 - `Person#work_out`: increments the person's happiness by two points, decreases
   their hygiene by three points, and returns the Queen lyrics,
-  `"♪ another one bites the dust ♫"`.
+  `"♪ one bites the dust ♫"`.
 
 - `Person#call_friend(friend)`: accepts another instance of the `Person` class,
   or "friend". The method should increment the person and the friend's happiness
